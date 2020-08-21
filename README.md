@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Working URL: https://instagram-clone-5cd2f.web.app/
+
 ## Available Scripts
+
+## To run this project change the firebase config to your config and enjoy. Cheers!
 
 In the project directory, you can run:
 
